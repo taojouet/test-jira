@@ -1,1 +1,3 @@
-console.log("youhou");
+function sayHello(name) {   
+    console.log("Hello " + name);
+}
